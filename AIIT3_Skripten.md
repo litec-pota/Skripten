@@ -1,6 +1,13 @@
 ## AIIT3 PDFs
 
 ### Notes
+- [Microcontroller_01_Hardware_Notes.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Microcontroller_01_Hardware_Notes.pdf)
+- [Microcontroller_02_GPIOs_Notes.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Microcontroller_02_GPIOs_Notes.pdf)
+- [Microcontroller_03_Bitmanipulation_Notes.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Microcontroller_03_Bitmanipulation_Notes.pdf)
+- [Microcontroller_04_Programmiertechnik_Notes.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Microcontroller_04_Programmiertechnik_Notes.pdf)
+- [Microcontroller_05_Interrupts_Notes.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Microcontroller_05_Interrupts_Notes.pdf)
+- [Microcontroller_06_Timer_Notes.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Microcontroller_06_Timer_Notes.pdf)
+- [Microcontroller_07_ADC_Notes.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Microcontroller_07_ADC_Notes.pdf)
 - [Notes_ADC_Part7.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Notes_ADC_Part7.pdf)
 - [Notes_GPIOs_Part1.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Notes_GPIOs_Part1.pdf)
 - [Notes_GPIOs_Part2.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Notes_GPIOs_Part2.pdf)
