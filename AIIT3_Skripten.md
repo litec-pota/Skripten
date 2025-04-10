@@ -23,3 +23,6 @@
 - [CheatSheet2_TimerCounter.pdf](https://litec-pota.github.io/Skripten/AIIT3/cheatSheets/CheatSheet2_TimerCounter.pdf)
 - [CheatSheet3_ADC.pdf](https://litec-pota.github.io/Skripten/AIIT3/cheatSheets/CheatSheet3_ADC.pdf)
 - [GPIO.pdf](https://litec-pota.github.io/Skripten/AIIT3/cheatSheets/GPIO.pdf)
+
+### Exercises
+- [{filename}.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/{filename}.pdf)
