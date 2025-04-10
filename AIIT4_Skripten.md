@@ -18,7 +18,7 @@
 - [3_Bussysteme_05_ProfiNet.pdf](https://litec-pota.github.io/Skripten/AIIT4/lectures/3_Bussysteme_05_ProfiNet.pdf)
 
 ### Slides
-- [*.pdf](https://litec-pota.github.io/Skripten/AIIT4/slides/*.pdf)
+- [01_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT4/slides/01_Slides.pdf)
 
 ### CheatSheets
 - [CheatSheet1_Template.pdf](https://litec-pota.github.io/Skripten/AIIT4/cheatSheets/CheatSheet1_Template.pdf)
