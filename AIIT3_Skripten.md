@@ -25,4 +25,5 @@
 - [GPIO.pdf](https://litec-pota.github.io/Skripten/AIIT3/cheatSheets/GPIO.pdf)
 
 ### Exercises
+- [Bsp01_BlinkingLeds.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp01_BlinkingLeds.pdf)
 - [{filename}.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/{filename}.pdf)
