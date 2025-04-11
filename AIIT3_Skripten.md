@@ -8,21 +8,15 @@
 - [Microcontroller_05_Interrupts_Notes.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Microcontroller_05_Interrupts_Notes.pdf)
 - [Microcontroller_06_Timer_Notes.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Microcontroller_06_Timer_Notes.pdf)
 - [Microcontroller_07_ADC_Notes.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Microcontroller_07_ADC_Notes.pdf)
-- [Notes_ADC_Part7.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Notes_ADC_Part7.pdf)
-- [Notes_GPIOs_Part1.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Notes_GPIOs_Part1.pdf)
-- [Notes_GPIOs_Part2.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Notes_GPIOs_Part2.pdf)
-- [Notes_GPIOs_Part3.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Notes_GPIOs_Part3.pdf)
-- [Notes_GPIOs_Part4.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Notes_GPIOs_Part4.pdf)
-- [Notes_Interrupts_Part5.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Notes_Interrupts_Part5.pdf)
-- [Notes_Timer_Part6.pdf](https://litec-pota.github.io/Skripten/AIIT3/lectures/Notes_Timer_Part6.pdf)
 
 ### Slides
-- [Slides_GPIOs_Part1.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Slides_GPIOs_Part1.pdf)
-- [Slides_GPIOs_Part2.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Slides_GPIOs_Part2.pdf)
-- [Slides_GPIOs_Part3.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Slides_GPIOs_Part3.pdf)
-- [Slides_GPIOs_Part4.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Slides_GPIOs_Part4.pdf)
-- [Slides_Interrupts_Part5.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Slides_Interrupts_Part5.pdf)
-- [Slides_Timer_Part6.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Slides_Timer_Part6.pdf)
+- [Microcontroller_01_Hardware_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_01_Hardware_Slides.pdf)
+- [Microcontroller_02_GPIOs_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_02_GPIOs_Slides.pdf)
+- [Microcontroller_03_Bitmanipulation_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_03_Bitmanipulation_Slides.pdf)
+- [Microcontroller_04_Programmiertechnik_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_04_Programmiertechnik_Slides.pdf)
+- [Microcontroller_05_Interrupts_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_05_Interrupts_Slides.pdf)
+- [Microcontroller_06_Timer_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_06_Timer_Slides.pdf)
+- [Microcontroller_07_ADC_Notes.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_07_ADC_Notes.pdf)
 
 ### CheatSheets
 - [Arduino_Serial.pdf](https://litec-pota.github.io/Skripten/AIIT3/cheatSheets/Arduino_Serial.pdf)
