@@ -35,5 +35,6 @@
 - [Bsp07_StepperMotor.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp07_StepperMotor.pdf)
 - [Bsp08_RGBLed.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp08_RGBLed.pdf)
 - [Bsp09_Drehencoder.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp09_Drehencoder.pdf)
+- [Bsp10_Reaktionsspiel.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp10_Reaktionsspiel.pdf)
 - [Bsp17_Servomotor.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp17_Servomotor.pdf)
 - [Bsp19_KondensatorMessung.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp19_KondensatorMessung.pdf)
