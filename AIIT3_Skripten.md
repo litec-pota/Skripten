@@ -38,5 +38,6 @@
 - [Bsp10_Reaktionsspiel.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp10_Reaktionsspiel.pdf)
 - [Bsp11_Stopuhr.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp11_Stopuhr.pdf)
 - [Bsp12_Servomotor.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp12_Servomotor.pdf)
+- [Bsp13_Helligkeitssensor.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp13_Helligkeitssensor.pdf)
 - [Bsp17_Servomotor.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp17_Servomotor.pdf)
 - [Bsp19_KondensatorMessung.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp19_KondensatorMessung.pdf)
