@@ -17,6 +17,7 @@
 - [Microcontroller_05_Interrupts_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_05_Interrupts_Slides.pdf)
 - [Microcontroller_06_Timer_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_06_Timer_Slides.pdf)
 - [Microcontroller_07_ADC_Notes.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_07_ADC_Notes.pdf)
+- [Microcontroller_07_ADC_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_07_ADC_Slides.pdf)
 
 ### CheatSheets
 - [Arduino_Serial.pdf](https://litec-pota.github.io/Skripten/AIIT3/cheatSheets/Arduino_Serial.pdf)
