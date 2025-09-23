@@ -16,7 +16,6 @@
 - [Microcontroller_04_Programmiertechnik_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_04_Programmiertechnik_Slides.pdf)
 - [Microcontroller_05_Interrupts_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_05_Interrupts_Slides.pdf)
 - [Microcontroller_06_Timer_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_06_Timer_Slides.pdf)
-- [Microcontroller_07_ADC_Notes.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_07_ADC_Notes.pdf)
 - [Microcontroller_07_ADC_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT3/slides/Microcontroller_07_ADC_Slides.pdf)
 
 ### CheatSheets
@@ -41,5 +40,3 @@
 - [Bsp12_Servomotor.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp12_Servomotor.pdf)
 - [Bsp13_Helligkeitssensor.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp13_Helligkeitssensor.pdf)
 - [Bsp14_KondensatorMessung.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp14_KondensatorMessung.pdf)
-- [Bsp17_Servomotor.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp17_Servomotor.pdf)
-- [Bsp19_KondensatorMessung.pdf](https://litec-pota.github.io/Skripten/AIIT3/exercises/Bsp19_KondensatorMessung.pdf)
