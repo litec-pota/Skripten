@@ -19,6 +19,7 @@
 
 ### Slides
 - [01_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT4/slides/01_Slides.pdf)
+- [1_Kommunikationstechnik_01_Grundlagen_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT4/slides/1_Kommunikationstechnik_01_Grundlagen_Slides.pdf)
 
 ### CheatSheets
 - [CheatSheet1_Template.pdf](https://litec-pota.github.io/Skripten/AIIT4/cheatSheets/CheatSheet1_Template.pdf)
