@@ -22,6 +22,8 @@
 - [1_Kommunikationstechnik_01_Grundlagen_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT4/slides/1_Kommunikationstechnik_01_Grundlagen_Slides.pdf)
 - [1_Kommunikationstechnik_02_Datenformate_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT4/slides/1_Kommunikationstechnik_02_Datenformate_Slides.pdf)
 - [1_Kommunikationstechnik_03_Webservices_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT4/slides/1_Kommunikationstechnik_03_Webservices_Slides.pdf)
+- [1_Kommunikationstechnik_04_MQTT_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT4/slides/1_Kommunikationstechnik_04_MQTT_Slides.pdf)
+- [2_Netzwerktechnik_01_Ethernet_Slides.pdf](https://litec-pota.github.io/Skripten/AIIT4/slides/2_Netzwerktechnik_01_Ethernet_Slides.pdf)
 
 ### CheatSheets
 - [CheatSheet1_Template.pdf](https://litec-pota.github.io/Skripten/AIIT4/cheatSheets/CheatSheet1_Template.pdf)
